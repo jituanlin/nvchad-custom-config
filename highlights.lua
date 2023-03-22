@@ -7,7 +7,7 @@ local M = {}
 ---@type HLTable
 M.override = {
   CursorLine = {
-    bg = "black2",
+    bg = "lightbg",
   },
   Comment = {
     italic = true,
